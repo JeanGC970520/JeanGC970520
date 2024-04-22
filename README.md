@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Jean Garcia</h1>
 
 - 🔭 I’m currently working on Daltron TI.
 - 🌱 I’m currently learning Machine Learning.
