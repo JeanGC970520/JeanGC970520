@@ -1,21 +1,23 @@
 <h1 align="center">Hi there 👋, I'm Jean Garcia</h1>
-<p align="center">
-  
+
+<p align="center">  
   &emsp; 
   <img src="https://img.shields.io/github/stars/JeanGC970520"/>
   &emsp; 
   <img src="https://img.shields.io/github/followers/JeanGC970520"/>
   &emsp; 
-  <a href="www.linkedin.com/in/jean-pool-garcía-contreras-851145203" target="blank">
-    <img src="https://img.shields.io/badge/Linkedin-%25?style=flat&logo=linkedin&labelColor=blue&color=white"/>
+  <a href="www.linkedin.com/in/jean-gc" target="blank">
+    <img src="https://img.shields.io/badge/Linkedin-%25?style=flat&logo=linkedin&labelColor=blue&color=white" alt="LinkedIn"/>
   </a>
-  
 </p>
 
 
 <!--
 ![GitHub stars](https://img.shields.io/github/stars/JeanGC970520)
+&emsp;
 ![GitHub followers](https://img.shields.io/github/followers/JeanGC970520)
+&emsp;
+[![Static Badge](https://img.shields.io/badge/Linkedin-%25?style=flat&logo=linkedin&labelColor=blue&color=white)](www.linkedin.com/in/jean-pool-garcía-contreras-851145203)
 -->
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
