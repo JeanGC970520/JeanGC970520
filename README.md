@@ -6,7 +6,7 @@
   &emsp; 
   <img src="https://img.shields.io/github/followers/JeanGC970520"/>
   &emsp; 
-  <a href="www.linkedin.com/in/jean-pool-garcía-contreras-851145203">
+  <a href="www.linkedin.com/in/jean-pool-garcía-contreras-851145203" target="blank">
     <img src="https://img.shields.io/badge/Linkedin-%25?style=flat&logo=linkedin&labelColor=blue&color=white"/>
   </a>
   
