@@ -71,17 +71,27 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<!--
-**JeanGC970520/JeanGC970520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="left">🔥 Some Statistics</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details><summary><h3> 🏆 GitHub Profile Stats</h3></summary>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=JeanGC970520&show_icons=true&theme=transparent" alt="JeanGC970520"/>
+  </p>
+  
+</details>
+
+<details><summary><h3> 💻 Languages Stats</h3></summary>
+  
+  ----	
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanGC970520" alt="JeanGC970520" />
+    <br/>
+    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+
+</details>
+
+
