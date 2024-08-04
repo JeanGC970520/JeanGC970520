@@ -31,7 +31,7 @@
 </p>
 
 
-- 🔭 I’m currently working on Daltron TI.
+- 🔭 I’m currently working on VSP.
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on Flutter projects.
 
