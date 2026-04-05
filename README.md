@@ -31,9 +31,9 @@
 </p>
 
 
-- 🔭 I’m currently working on VSP.
-- 🌱 I’m currently learning Machine Learning.
-- 👯 I’m looking to collaborate on Flutter projects.
+- 🔭 I’m currently working on BBVA.
+- 🌱 I’m currently learning GenAI and Cloud Computing(AWS & GCP).
+- 👯 I’m looking to collaborate on Flutter, GenAI and Cloud Computing projects.
 
 <h1 align="left">🧠 Skills Showcase</h1>
 
